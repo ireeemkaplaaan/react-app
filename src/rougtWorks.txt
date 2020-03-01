@@ -1,0 +1,5 @@
+App Structer
+------------
+
+
+redux, react-redux,redux-thunk
